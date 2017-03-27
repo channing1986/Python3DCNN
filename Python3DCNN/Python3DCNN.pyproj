@@ -25,6 +25,9 @@
     <Compile Include="cifar10_input.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DataInput_txt.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Python3DCNN.py" />
     <Compile Include="test.py">
       <SubType>Code</SubType>
